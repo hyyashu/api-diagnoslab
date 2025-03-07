@@ -1,0 +1,19 @@
+2024/09/08-22:29:07.993 8598 Reusing MANIFEST C:\Users\hyyashu\Desktop\code\diagnoslab\api-diagnoslab\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/08-22:29:07.994 8598 Recovering log #56
+2024/09/08-22:29:07.994 8598 Reusing old log C:\Users\hyyashu\Desktop\code\diagnoslab\api-diagnoslab\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000056.log 
+2024/09/08-22:29:08.269 69c8 Compacting 1@1 + 1@2 files
+2024/09/08-22:29:08.357 69c8 Generated table #59@1: 42380 keys, 2165804 bytes
+2024/09/08-22:29:08.357 69c8 Compacted 1@1 + 1@2 files => 2165804 bytes
+2024/09/08-22:29:08.358 69c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/08-22:29:08.358 69c8 Delete type=2 #55
+2024/09/08-22:29:08.359 69c8 Delete type=2 #57
+2024/09/08-22:29:09.300 6cb0 Level-0 table #61: started
+2024/09/08-22:29:09.303 6cb0 Level-0 table #61: 12646 bytes OK
+2024/09/08-22:29:09.305 6cb0 Delete type=0 #56
+2024/09/08-22:29:09.305 898c Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/08-22:29:10.445 6a8c Compacting 1@1 + 1@2 files
+2024/09/08-22:29:10.534 6a8c Generated table #62@1: 42521 keys, 2171690 bytes
+2024/09/08-22:29:10.534 6a8c Compacted 1@1 + 1@2 files => 2171690 bytes
+2024/09/08-22:29:10.535 6a8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/08-22:29:10.536 6a8c Delete type=2 #59
+2024/09/08-22:29:10.536 6a8c Delete type=2 #61
